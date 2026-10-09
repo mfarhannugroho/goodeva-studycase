@@ -1,0 +1,16 @@
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+app/build/
+*.hprof
+*.apk
+
+# Internal study case documents (excluded from repo)
+PRD.md
+Study Case Mobile Engineer.md
